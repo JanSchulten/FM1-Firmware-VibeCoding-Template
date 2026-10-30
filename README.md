@@ -4,7 +4,7 @@ This is a repo-template to start your own firmware with Claude Code or Codex.
 
 A repository made from it is the **FM-1 Firmware Kit** before its first step: a starting point for your own firmware on the
 **M-VAVE FM-1** pocket synthesizer, built on the platform of [Felucca](https://github.com/hugelton/Felucca)
-(Leo Kuroshita, Hügelton Instruments) as [M-Vave-OP1](https://github.com/janschulten/m-vave-op1) runs it.
+(Leo Kuroshita, Hügelton Instruments).
 
 It is made from an interview, not by hand:
 
