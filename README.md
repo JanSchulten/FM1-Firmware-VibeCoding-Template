@@ -36,3 +36,5 @@ first install of a new firmware should be done with recovery hardware at hand (t
 
 M-VAVE and FM-1 are trademarks of their respective owners. This kit is not affiliated with or endorsed by them, nor
 by Hügelton Instruments.
+
+Related: try FM-1 firmwares in the browser with the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
